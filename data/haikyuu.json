@@ -1,0 +1,35 @@
+[
+    {
+        "image": "../Animatching/img/haikyuu/tsukishima.png",
+        "name": "tsukishima"
+    },
+    {
+        "image": "../Animatching/img/haikyuu/sugawara.png",
+        "name": "sugawara"
+    },
+    {
+        "image": "../Animatching/img/haikyuu/hinata.png",
+        "name": "hinata"
+    },
+    {
+        "image": "../Animatching/img/haikyuu/kageyama.png",
+        "name": "kageyama"
+    },
+    {
+        "image": "../Animatching/img/haikyuu/kenma.png",
+        "name": "kenma"
+    },
+    {
+        "image": "../Animatching/img/haikyuu/nishinoya.png",
+        "name": "nishinoya"
+    },
+    {
+        "image": "../Animatching/img/haikyuu/tanaka.png",
+        "name": "tanaka"
+    },
+    {
+        "image": "../Animatching/img/haikyuu/kuro.png",
+        "name": "kuro"
+    }
+
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "image": "../Animatching/img/hxh/gon.png",
+        "name": "gon"
+    },
+    {
+        "image": "../Animatching/img/hxh/killua.png",
+        "name": "killua"
+    },
+    {
+        "image": "../Animatching/img/hxh/ging.png",
+        "name": "ging"
+    },
+    {
+        "image": "../Animatching/img/hxh/kurapika.png",
+        "name": "kurapika"
+    },
+    {
+        "image": "../Animatching/img/hxh/leorio.png",
+        "name": "leorio"
+    },
+    {
+        "image": "../Animatching/img/hxh/merieum.png",
+        "name": "merieum"
+    },
+    {
+        "image": "../Animatching/img/hxh/pitou.png",
+        "name": "pitou"
+    },
+    {
+        "image": "../Animatching/img/hxh/hisoka.png",
+        "name": "hisoka"
+    }
+
+]

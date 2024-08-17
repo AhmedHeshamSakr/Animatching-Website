@@ -1,0 +1,35 @@
+[
+    {
+        "image": "../Animatching/img/bsd/dazai.png",
+        "name": "dazai"
+    },
+    {
+        "image": "../Animatching/img/bsd/akutagawa.png",
+        "name": "akutagawa"
+    },
+    {
+        "image": "../Animatching/img/bsd/atsushi.png",
+        "name": "atsushi"
+    },
+    {
+        "image": "../Animatching/img/bsd/chuuya.png",
+        "name": "chuuya"
+    },
+    {
+        "image": "../Animatching/img/bsd/fyodor.png",
+        "name": "fyodor"
+    },
+    {
+        "image": "../Animatching/img/bsd/kunikida.png",
+        "name": "kunikida"
+    },
+    {
+        "image": "../Animatching/img/bsd/kyoka.png",
+        "name": "kyoka"
+    },
+    {
+        "image": "../Animatching/img/bsd/ranpo.png",
+        "name": "ranpo"
+    }
+
+]

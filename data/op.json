@@ -1,0 +1,35 @@
+[
+    {
+        "image": "../Animatching/img/op/luffy.png",
+        "name": "luffy"
+    },
+    {
+        "image": "../Animatching/img/op/zoro.png",
+        "name": "zoro"
+    },
+    {
+        "image": "../Animatching/img/op/sanji.png",
+        "name": "sanji"
+    },
+    {
+        "image": "../Animatching/img/op/robin.png",
+        "name": "robin"
+    },
+    {
+        "image": "../Animatching/img/op/nami.png",
+        "name": "nami"
+    },
+    {
+        "image": "../Animatching/img/op/franky.png",
+        "name": "franky"
+    },
+    {
+        "image": "../Animatching/img/op/chopper.png",
+        "name": "chopper"
+    },
+    {
+        "image": "../Animatching/img/op/ace.png",
+        "name": "ace"
+    }
+
+]

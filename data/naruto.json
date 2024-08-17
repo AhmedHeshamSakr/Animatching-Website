@@ -1,0 +1,35 @@
+[
+    {
+        "image": "../Animatching/img/naruto/naruto.png",
+        "name": "naruto"
+    },
+    {
+        "image": "../Animatching/img/naruto/sasuki.png",
+        "name": "sasuki"
+    },
+    {
+        "image": "../Animatching/img/naruto/sakura.png",
+        "name": "sakura"
+    },
+    {
+        "image": "../Animatching/img/naruto/kakashi.png",
+        "name": "kakashi"
+    },
+    {
+        "image": "../Animatching/img/naruto/madara.png",
+        "name": "madara"
+    },
+    {
+        "image": "../Animatching/img/naruto/itachi.png",
+        "name": "itachi"
+    },
+    {
+        "image": "../Animatching/img/naruto/jiraya.png",
+        "name": "tanaka"
+    },
+    {
+        "image": "../Animatching/img/naruto/shikamaru.png",
+        "name": "shikamaru"
+    }
+
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "image": "../Animatching/img/jjk/sukuna.png",
+        "name": "sukuna"
+    },
+    {
+        "image": "../Animatching/img/jjk/gojo.png",
+        "name": "gojo"
+    },
+    {
+        "image": "../Animatching/img/jjk/inumaki.png",
+        "name": "inumaki"
+    },
+    {
+        "image": "../Animatching/img/jjk/itadori.png",
+        "name": "itadori"
+    },
+    {
+        "image": "../Animatching/img/jjk/maki.png",
+        "name": "maki"
+    },
+    {
+        "image": "../Animatching/img/jjk/megumi.png",
+        "name": "megumi"
+    },
+    {
+        "image": "../Animatching/img/jjk/nobara.png",
+        "name": "nobara"
+    },
+    {
+        "image": "../Animatching/img/jjk/panda.png",
+        "name": "panda"
+    }
+
+]
