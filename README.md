@@ -5,7 +5,7 @@ Welcome to the Anime-Themed Card Matching Game! This is a fun and interactive ca
 
 ## Demo Video
 
-Check out our [Demo Video](#https://drive.google.com/file/d/1rK7drdlsnT71T
+Check out our [Demo Video](https://drive.google.com/file/d/1rK7drdlsnT71T
 3eGIZ-DqJBHj9R4fqqM/view?usp=share_link) to see the game in action!
 
 ## Features
